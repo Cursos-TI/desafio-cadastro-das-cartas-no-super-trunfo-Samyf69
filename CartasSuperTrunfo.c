@@ -7,6 +7,7 @@
 #include <stdio.h>
 
 int main() {
+    
     // Carta 1
     char Estado[23];
     char Codigo[5];
@@ -100,5 +101,4 @@ int main() {
     printf("Pontos Turísticos: %d\n", Turisticos2);
 
     return 0;
-
 }
