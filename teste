@@ -1,8 +1,3 @@
-#include <stdio.h>
-
-int main(){
-    printf("Desafio Super Trunfo - Cidade");
-    
 
 
 
@@ -10,7 +5,8 @@ int main(){
 
 
 
-}
+
+
 
 
 
